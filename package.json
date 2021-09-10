@@ -1,0 +1,20 @@
+{
+  "name": "soundcloudfun",
+  "version": "1.0.0",
+  "description": "Playing around with a music player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alec74/soundCloudFun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alec74/soundCloudFun/issues"
+  },
+  "homepage": "https://github.com/Alec74/soundCloudFun#readme"
+}
