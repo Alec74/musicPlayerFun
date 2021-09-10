@@ -15,12 +15,12 @@ import Grid from '@material-ui/core/Grid';
 import Button from 'react-bootstrap/Button';
 
 
-// import song1 from '../music/My_Brain.mp3';
-// import song2 from '../music/What_Can_I_Become.mp3';
-// import song3 from '../music/Living_Off_The_Government.mp3';
-// import song4 from '../music/SOS(Cover).mp3';
-// import song5 from '../music/ImStillAlive(originalVersion).mp3';
-// import song6 from '../music/StartAgain.mp3';
+import song1 from '../music/My_Brain.mp3';
+import song2 from '../music/What_Can_I_Become.mp3';
+import song3 from '../music/Living_Off_The_Government.mp3';
+import song4 from '../music/SOS(Cover).mp3';
+import song5 from '../music/ImStillAlive(originalVersion).mp3';
+import song6 from '../music/StartAgain.mp3';
 // import {useState, useEffect} from 'react';
 
 import Player from '../components/Player/Player';
